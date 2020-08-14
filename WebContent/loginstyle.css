@@ -1,0 +1,59 @@
+* {
+	margin: 0;
+	padding: 0;
+	color: darkblue;
+	border-color: darkblue;
+}
+
+body {
+	background-color: darkseagreen;
+	padding-top: 10vh;
+}
+
+.form-container {
+	width: 300px;
+	height: auto;
+	padding: 20px 30px;
+	background-color: white;
+	border-radius: 10px;
+	margin: auto;
+	margin-top: 80px;
+	font-family: sans-serif;
+}
+
+table {
+	list-style-type: none;
+	text-align: center;
+	padding: 10px;
+	width: 100%;
+	height: 150px;
+	font-family: arial;
+	font-size: 17px;
+}
+
+#head {
+	text-align: center;
+	color: darkblue;
+}
+
+tr {
+	height: 40px;
+	width: 100%;
+}
+
+input {
+	width: 100%;
+	box-sizing: border-box;
+	height: 30px;
+	border-radius: 5px;
+	border: 2px solid darkblue;
+	color: black;
+}
+
+input[type="submit"] {
+	background-color: darkblue;
+	color: white;
+	font-size: 18px;
+	font-family: serif;
+	border-radius: 5px;
+}

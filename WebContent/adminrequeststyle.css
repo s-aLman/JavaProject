@@ -1,0 +1,146 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+	background-color: darkseagreen;
+}
+
+#vehicleregister {
+	width: 100%;
+	height: 60px;
+	background-color: darkseagreen;
+}
+
+#vehicleregister h2 {
+	text-align: center;
+	font-size: 32px;
+	font-family: arial;
+	padding: 14px;
+	margin: 0;
+	color: white;
+}
+
+.nav {
+	width: 100%;
+	height: 49px;
+	background-color: white;
+	border-color: darkblue;
+	border-style: solid;
+}
+
+.nav a {
+	text-decoration: none;
+	float: left;
+	color: white;
+	padding: 14px 26px;
+	font-size: 18px;
+	background-color: white;
+	color: darkblue;
+}
+
+.nav a:hover {
+	background-color: darkseagreen;
+}
+
+.form {
+	background-color: white;
+	margin-left: 230px;
+	margin-top: 0px;
+	padding-left: 30px;
+	padding-top: 0x;
+	padding-bottom: 2px;
+	height: auto;
+	width: 880px;
+	border-radius: 10px;
+	border-top: 0px;
+	border-style: solid;
+	border-color: darkblue;
+}
+
+#head {
+	color: darkblue;
+	font-size: 26px;
+	padding-left: 325px;
+	margin-top: 0px;
+	font-family: arial;
+	font-weight: bold;
+	padding-top: 20px;
+	margin-bottom: 0px;
+}
+
+.form strong {
+	display: inline-block;
+	width: 160px;
+	padding-top: 30px;
+	padding-left: 240px;
+	padding-bottom: 30px;
+	font-family: arial;
+	color: darkblue;
+	font-size: 20px;
+}
+
+.form select{
+	width: 160px;
+	padding-left: 30px;
+	border-radius: 5px;
+	height: 31px;
+	margin-right: 50px;
+	margin-left: -4px;
+	font-size: 17px;
+	background-color: white;
+	border-color: darkblue;
+}
+
+table, td, th {
+	width: 800px;
+	height: 30px;
+	text-align: left;
+	border: 2px solid black;
+	margin-left: 22px;
+	padding-left: 12px;
+	margin-top: 26px;
+	margin-bottom: 380px;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+th {
+	background-color: #98FB98;
+}
+
+td {
+	background-color: white;
+	font-weight: bold;
+}
+
+td a{
+	color: white;
+}
+td input{
+	color: blue;
+	background: none;
+	border: none;
+	font-weight: bold;
+	font-family: arial;
+	font-size: 17px;
+}
+
+#search {
+	margin-left: 433px;
+	margin-top: 20px;
+	width: 100px;
+	height: 36px;
+	border-radius: 5px;
+	font-family: arial;
+	font-size: 17px;
+	background-color: darkblue;
+	color: white;
+}
+#norecord{
+	color: red;
+	margin-bottom: 161px;
+	margin-left: 336px;
+	padding-top: 40px;
+}
